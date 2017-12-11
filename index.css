@@ -1,0 +1,31 @@
+#calendar {
+    margin: 50px auto;
+    width: 800px;
+    height: 800px;
+    min-width: 800px;
+    min-height: 800px
+}
+
+th,
+td {
+    width: 114px;
+}
+
+th {
+    height: 20px;
+}
+
+td {
+    height: 80px;
+}
+
+.box {
+    width: 250px;
+    height: 70px;
+}
+
+.top-corner {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
